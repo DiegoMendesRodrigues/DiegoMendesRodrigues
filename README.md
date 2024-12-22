@@ -4,7 +4,7 @@ Sou um profissional de tecnologia que está sempre buscando novidades, além ate
 ## Tecnologias e Ferramentas
 Essas são as tecnologias que costumo utilizar.
 
-### Frontend
+### Front-end
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
@@ -14,7 +14,7 @@ Essas são as tecnologias que costumo utilizar.
  <img src="https://img.shields.io/badge/PHP-3178C6?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
 </p>
 
-### Backend
+### Back-end
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/Java-ca3132?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
