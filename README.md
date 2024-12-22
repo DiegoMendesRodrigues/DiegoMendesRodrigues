@@ -42,5 +42,5 @@ Essas são as tecnologias que costumo utilizar.
 ## Contatos
 
 - LinkedIn: [Diego Mendes Rodrigues](https://www.linkedin.com/in/diegomendesrodrigues/)
-- Email: [diego.m.rodrigues@gmail.com](mailto:diego.m.rodrigues@gmail.com)
+- E-mail: [diego.m.rodrigues@gmail.com](mailto:diego.m.rodrigues@gmail.com)
 
